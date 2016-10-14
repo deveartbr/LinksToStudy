@@ -7,7 +7,7 @@ Great links to study
 
 <strong>Flex</strong>
 
-  A Complete Guide to Flexbox
+  A Complete Guide to Flexbox. By Chris Coyier.
 
       https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
