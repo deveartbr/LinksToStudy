@@ -2,9 +2,9 @@
 
 Great links to study
 
-
-.############################## CSS3 ##############################.
-
+<div style="width:100%; background-color: #e3e3e3;">
+<h2 style="text-align:center"> CSS3 </h2>
+</div>
 <strong>Flex</strong>
 
   A Complete Guide to Flexbox
