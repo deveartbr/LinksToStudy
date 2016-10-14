@@ -7,9 +7,9 @@ Great links to study
 
 <strong>Flex</strong>
 
-A Complete Guide to Flexbox
+  A Complete Guide to Flexbox
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+      https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 .############################## SASS ##############################.
 <h3>LIBS</h3>
@@ -18,4 +18,4 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
   A simple and lightweight mixin library for Sass.
   
-    http://bourbon.io/
+      http://bourbon.io/
