@@ -20,3 +20,7 @@ Great links to study
   A simple and lightweight mixin library for Sass.
   
       http://bourbon.io/
+      
+<h2> JQuery / JS </h2>
+
+       https://developer.mozilla.org/en-US/docs/Mozilla/Performance/Scroll-linked_effects
